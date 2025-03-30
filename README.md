@@ -1,4 +1,4 @@
-# RUC & Xiaomi: Efficient Fine-Tuning 🙌
+# RUC & Xiaomi: Efficient Fine-Tuning 🙌🎉
 
 ## 📰 News
 
