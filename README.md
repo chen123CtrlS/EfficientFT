@@ -11,9 +11,9 @@
 
 According to the traditional statistical learning viewpoint, performance can be defined by the sum of optimization error and generalization error. In (generalization, storage-friendly), we give **Theorem 1** (Information-theoretic genralization bounds), showing that with the same $r$ value, fine-tuning $\mathbf{W}_q,\mathbf{W}_v$ consistently achieves results comparable to or even surpassing those of fine-tuning $\mathbf{W}_q,\mathbf{W}_k,\mathbf{W}_v$. This reduces the number of parameters for the same $r$, while improving generalization bounds and potentially providing memory benefits. In (optimization, time-friendly), we discuss the learning dynamics in fine-tuning attention mechanism, and we illustrate **Theorem 2** that the feature learning of attention mechanism is efficient when the learning rate for $\mathbf{W}_v$ should be generally much larger than that of $\mathbf{W}_q,\mathbf{W}_k$ in fine-tuning. Building on our experimental and theoretical insights, one can develop new algorithms to improve the effectiveness (e.g., storage, and time) of fine-tuning.
 
-![theorem1](/EfficientFT/figs/theorem1.jpg)
+![theorem1](./EfficientFT/figs/theorem1.jpg)
 
-![theorem2](/EfficientFT/figs/theorem2.jpg)
+![theorem2](./EfficientFT/figs/theorem2.jpg)
 
 (2) **Target:**
 
@@ -86,7 +86,7 @@ data_download.py
 
 ## 😊Some Results
 
-![res1](/EfficientFT/figs/res1.jpg)
+![res1](./EfficientFT/figs/res1.jpg)
 
 ## 📝 Citation
 
