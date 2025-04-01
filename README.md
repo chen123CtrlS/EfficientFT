@@ -91,10 +91,10 @@ data_download.py
 ## 📝 Citation
 
 ```bibtex
-@misc{yao2024theoreticalinsightsfinetuningattention,
+@misc{yao2025theoreticalinsightsfinetuningattention,
       title={Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization}, 
-      author={Xinhao Yao et al.},
-      year={2024},
+      author={Xinhao Yao and Hongjin Qian and Xiaolin Hu and Gengze Xu and Yong Liu and Wei Liu and Jian Luan and Bin Wang},
+      year={2025},
       eprint={2410.02247},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
