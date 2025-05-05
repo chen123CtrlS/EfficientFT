@@ -1,7 +1,7 @@
 # RUC & Xiaomi: Efficient Fine-Tuning 🙌🎉
 
 ## 📰 News
-
+- 2025-4-29: Our paper has been accepted by IJCAI-25. Congratulations!
 - 2025-3-31: Delivery of a Prototype System for Parameter-Efficient and Gradient Projection Methods: A Comprehensive Benchmark Against 10+ State-of-the-Art Efficient Fine-Tuning Approaches.
 - 2024-12-30: Theoretical Insights into Fine-Tuning Attention Mechanism.
 
@@ -91,13 +91,10 @@ data_download.py
 ## 📝 Citation
 
 ```bibtex
-@misc{yao2025theoreticalinsightsfinetuningattention,
-      title={Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization}, 
-      author={Xinhao Yao and Hongjin Qian and Xiaolin Hu and Gengze Xu and Yong Liu and Wei Liu and Jian Luan and Bin Wang},
-      year={2025},
-      eprint={2410.02247},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.02247}, 
+@article{yao2024theoretical,
+  title={Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization},
+  author={Yao, Xinhao and Qian, Hongjin and Hu, Xiaolin and Xu, Gengze and Liu, Yong and Liu, Wei and Luan, Jian and Wang, Bin},
+  journal={arXiv preprint arXiv:2410.02247},
+  year={2024}
 }
 ```
