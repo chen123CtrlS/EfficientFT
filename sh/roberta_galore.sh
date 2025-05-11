@@ -1,5 +1,5 @@
 export CUDA_VISIBLE_DEVICES=2
-python /home/xhy1689/EfficientFT/run_galore.py \
+python /.../EfficientFT/run_galore.py \
     --model_name_or_path roberta-base \
     --target_modules query,value\
     --lr 1e-4\
